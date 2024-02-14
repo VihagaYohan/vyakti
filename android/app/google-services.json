@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646613573404",
+    "project_id": "vyakti-bd27c",
+    "storage_bucket": "vyakti-bd27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646613573404:android:a8ac211aa0a7b2c3a5e4d9",
+        "android_client_info": {
+          "package_name": "com.vyakti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646613573404-ppdife2d7kp1g004n9t68j1po0u21ask.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vyakti",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "646613573404-33btffus0l2u8fd8btajapsme58gql8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY6K6aaUF7fxgEpaYc476uL5OFut8oosg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646613573404-33btffus0l2u8fd8btajapsme58gql8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
